@@ -1,4 +1,4 @@
-# Mini-Project-1-Python-Assignment
+# Mini Project-1 Python Assignment
 ## 📋 Assignment Overview
 ### The assignment covers the following key Python concepts:
    - List operations (adding, removing, sorting, searching)
